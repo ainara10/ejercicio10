@@ -1,0 +1,19 @@
+{
+    "name": "Shooter",
+    "short_name": "Shoot",
+    "icons": [
+        {   "src": "icons/alien-shooter-icon-32.png",
+            "sizes": "192x192",
+            "type": "image/png"},
+        {   "src": "icons/alien-shooter-icon-20.jpg",
+            "sizes": "256x256",
+            "type": "image/jpg"},
+        {   "src": "icons/alien-shooter-icon-26.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"}
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#6200ee"
+}
