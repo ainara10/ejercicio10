@@ -11,7 +11,7 @@ const FILES_TO_CACHE = [
   '/assets/jefe.png',
   '/assets/malo.png',
   '/assets/clases.png',
-  '/public/install.js'
+  '/install.js'
 ];
 
 self.addEventListener('install', (evt) => {
